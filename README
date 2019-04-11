@@ -1,0 +1,15 @@
+BigMD-CMASS-dr12v4-N-lightcone.dat
+
+    Columns: ra(1) dec(2) z_rds(3) wfkp(4) z_real(5)
+             Mvir(6) M200b(7) Rvir(8) Vmax(9) Vpeak(10)
+	     Pid(11) id(12) veto(13) wfc(14)
+
+BigMD-CMASS-dr12v4-N-lightcone.ran
+
+    Columns: ra(1) dec(2) z_rds(3) wfkp(4) veto(5) wfc(6)
+    
+
+# wfkp=1/(1+20000*n(z))
+# Pid: Parent halo id (-1 for host halos)
+# veto: veto mask
+# wfc: fiber collision weights
